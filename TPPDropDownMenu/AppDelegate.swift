@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
-//  TPPDropDownMenu
 //
-//  Created by Baohua Chen on 2019/2/16.
-//  Copyright © 2019 com.bupt.castle. All rights reserved.
+//  Created by CastleBUPT on 2019/2/16.
 //
 
 import UIKit
